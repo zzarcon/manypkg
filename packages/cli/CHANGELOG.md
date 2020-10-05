@@ -1,5 +1,11 @@
 # @manypkg/cli
 
+## 0.16.2
+
+### Patch Changes
+
+- [`3f0ac13`](https://github.com/Thinkmill/manypkg/commit/3f0ac130f836700cb48202f3b16dfa042701e226) [#77](https://github.com/Thinkmill/manypkg/pull/77) Thanks [@Andarist](https://github.com/Andarist)! - Fixed a typo in the reported error message for the peer and dev dep check
+
 ## 0.16.1
 
 ### Patch Changes
